@@ -21,4 +21,5 @@ public interface IBirdCreator {
      * @return объект типа Bird
      */
     Bird createBird(Scanner userInputReader);
+
 }
